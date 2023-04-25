@@ -1,6 +1,7 @@
 import React from "react";
+
+import NewExpense from "./components/NewExpense/NewExpense.jsx";
 import Expenses from "./components/Expenses/Expenses.jsx";
-import NewExpense from "./components/NewExpence/NewExpense.jsx";
 
 
 function App() {
