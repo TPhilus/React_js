@@ -3,7 +3,6 @@ import Expenses from "./components/Expenses/Expenses.jsx";
 import NewExpense from "./components/NewExpence/NewExpense.jsx";
 
 
-
 function App() {
   const expenses = [
     {
